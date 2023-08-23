@@ -16,9 +16,7 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=pippi-sniper&theme=dark)
 
-人生のほとんどMicro:BitとラズパイとValorantに依存している。
 
-Inteeeeeeeeeeeellllllllllll Coooooommmmmmmmmpuuuuuuuuteer insideeeeee
 
 
 <!--
