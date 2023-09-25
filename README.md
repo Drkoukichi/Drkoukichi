@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Drkoukichi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkoukichinet)](https://atcoder.jp/users/koukichinet)
-[![Drkoukichi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fkoukichinet)](https://codeforces.com/profile/koukichinet)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drkoukichi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/Drkoukichi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Drkoukichi?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/koukichinet?style=social)](https://twitter.com/koukichinet)
