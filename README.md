@@ -4,3 +4,5 @@ telnet me@your.brain.com
 ```
 
 icon ねもちゃん
+
+![Metrics](/github-metrics.svg)
