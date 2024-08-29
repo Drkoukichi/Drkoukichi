@@ -1,7 +1,8 @@
-# 開けよう心のPort23
+#  開こう心のPort23
 ```bash:sample
 telnet me@your.brain.com
 ```
+## GASから逃げられない男
 
 icon ねもちゃん
 
