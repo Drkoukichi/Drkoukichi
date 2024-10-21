@@ -8,8 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on:
-      labels: [self-hosted,Linux,X64]
+    runs-on: self-hosted
     permissions:
       contents: write
     steps:
